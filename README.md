@@ -1,4 +1,4 @@
-# Reverse engineering the coronavirus (SARS-CoV-2)
+# Reverse engineering the Novel coronavirus (SARS-CoV-2)
 
 **Start here**: [`corona.py`](corona.py)
 
